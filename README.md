@@ -30,7 +30,7 @@ Screenshots are available in the `screenshots/` folder:
 1. Clone this repository:
    
    ```bash
-   git clone <YOUR_GITHUB_REPO_LINK>
+   git clone https://github.com/the-AmanS/plant_store.git
 3. Open the project folder in your terminal or IDE.
 4. Add platform folders (Android, iOS, Windows, etc.)
    
