@@ -1,0 +1,63 @@
+# Ignore system & editor files
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code settings (optional to keep)
+.vscode/
+
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Ignore generated documentation
+**/doc/api/
+
+# iOS build cache
+**/ios/Flutter/.last_build_id
+
+# Android build outputs
+/android/
+/ios/
+/windows/
+/macos/
+/linux/
+/web/
+
+# Test folder (if not submitting tests)
+test/
+
+# Lock & metadata files
+.metadata
+pubspec.lock
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Only keep specific folders/files
+!lib/
+!assets/
+!screenshots/
+!pubspec.yaml
+!README.md
