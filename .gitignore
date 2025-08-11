@@ -26,7 +26,7 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-.analysis_options.yaml
+analysis_options.yaml
 build/
 
 # Ignore generated documentation
