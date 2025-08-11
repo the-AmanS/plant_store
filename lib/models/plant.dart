@@ -51,7 +51,7 @@ class Plant {
       name: 'Peace Lily',
       category: 'Indoor',
       price: 24.99,
-      image: 'assets/images/plant1.png',
+      image: 'assets/images/plant3.png',
       description: 'The Peace Lily is an easy-care houseplant that brings elegance and harmony to any space with its glossy leaves and white flowers.',
       light: 5,
       water: 6,
